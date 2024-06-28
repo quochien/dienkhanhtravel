@@ -7,7 +7,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 100%;
+/*    font-size: 100%;*/
     vertical-align: baseline;
 }
 
@@ -124,9 +124,9 @@ textarea {
 
 body {
     font-family: "Open Sans",Arial,sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 19px;
-    font-weight: 300;
+    font-weight: 400;
     color: #888;
     background-color: #fff;
     text-rendering: optimizeLegibility;
@@ -412,10 +412,15 @@ h3.widget-title {
 
 .sample-thumb {
     overflow: hidden;
+    margin-bottom: 10px;
 }
 
 .sample-thumb img {
     width: 100%;
+}
+
+.thumb-tours {
+    height: 500px;
 }
 
 .page-top {
@@ -593,7 +598,7 @@ h3.widget-title {
 }
 
 .middle-content {
-    margin-top: 100px;
+    margin-top: 60px;
     margin-bottom: 40px;
 }
 
@@ -634,9 +639,25 @@ h3.widget-title {
 }
 
 h4.consult-title {
-    font-size: 18px;
+    font-size: 24px;
     color: #9ed034;
-    font-weight: 300;
+    font-weight: 500;
+    margin: 20px 0 20px 0;
+}
+
+h4.news-title {
+    font-size: 24px;
+    color: #9ed034;
+    font-weight: 500;
+    margin: 0 0 20px 0;
+}
+
+.news {
+    margin-bottom: 50px;
+}
+
+.news-body {
+    font-weight: 500;
     margin: 20px 0 20px 0;
 }
 
