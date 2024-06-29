@@ -123,11 +123,11 @@ textarea {
 }
 
 body {
-    font-family: "Open Sans",Arial,sans-serif;
+    font-family: KoHo, sans-serif;
     font-size: 15px;
     line-height: 19px;
     font-weight: 400;
-    color: #888;
+    color: #333333;
     background-color: #fff;
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
@@ -147,7 +147,7 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Open Sans",Arial,sans-serif;
+    font-family: KoHo, sans-serif;
     color: #444;
 }
 
@@ -262,7 +262,7 @@ hr {
 	display: block;
     text-transform: uppercase;
     font-size: 14px;
-    color: #888;
+    color: #333333;
     line-height: 100px;
 }
 
