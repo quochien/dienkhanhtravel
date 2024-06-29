@@ -226,19 +226,23 @@ hr {
 .logo {
     margin: 5px;
     overflow: hidden;
-    a {
+    /*a {
         img {
             height: 85px;
         }
-    }
+    }*/
 }
 
 .footer-logo {
-    a {
+    /*a {
         img {
             height: 85px;
         }
-    }
+    }*/
+}
+
+.logo-thumb {
+    height: 85px;
 }
 
 .main-menu {
