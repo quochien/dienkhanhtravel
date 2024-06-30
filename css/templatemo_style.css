@@ -412,6 +412,7 @@ h3.widget-title {
     text-transform: uppercase;
     display: inline-block;
     margin-bottom: 40px;
+    line-height: 40px;
 }
 
 .sample-thumb {
@@ -640,6 +641,7 @@ h3.widget-title {
     font-size: 22px;
     font-weight: 300;
     margin-bottom: 10px;
+    line-height: 35px;
 }
 
 h4.consult-title {
