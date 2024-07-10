@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dienkhanhtravel.com/sitemap.xml
